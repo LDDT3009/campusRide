@@ -1,0 +1,6 @@
+{
+  "name": "CampusRide UCC",
+  "description": "Campus taxi-booking and dispatch demonstration platform for University of Cape Coast students, drivers, and administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
